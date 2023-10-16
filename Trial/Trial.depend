@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696852313 source:c:\users\user\desktop\jkuat code\trial\main.c
+	<stdio.h>
+	<stdlib.h>
+
